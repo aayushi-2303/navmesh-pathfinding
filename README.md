@@ -1,6 +1,9 @@
 # Navmesh Pathfinding
 
-A video demo of a navmesh-based pathfinding system, implemented on top of Prime Engine for Csci522 - Game Engine Development, at the University of Southern California.
+A video demo of a navmesh-based pathfinding system, implemented on top of Prime Engine for Csci522 - Game Engine Development, at the University of Southern California. Both videos can be accessed using these links.
+
+Part 1: https://youtu.be/_THHblTyYYw
+Part 2: https://youtu.be/TG9LnXeI1yY
 
 ## Project description
 
